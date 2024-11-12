@@ -1,4 +1,5 @@
-public class Exercise4 {
+public class Exercise5 {
+    // [**Bài tập] Thiết kế và triển khai lớp TriangleAssignment
     public static void main(String[] args) {
         Triangle triangle = new Triangle(5,8,12);
 
